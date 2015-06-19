@@ -11,7 +11,7 @@
 <key>kind</key>
 <string>software-package</string>
 <key>url</key>
-<string>http://211.138.15.185:18181/BISoreApp/initblogserver/downloadios</string>
+<string>http://192.168.1.20:7001/initblogserver/downloadios</string>
 </dict>
 </array>
 <key>metadata</key>
